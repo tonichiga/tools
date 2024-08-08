@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tonichiga/modal-manager.git"
+    "url": "git+https://github.com/tonichiga/tools.git"
   },
   "keywords": [
     "modal",
@@ -21,9 +21,9 @@
   "author": "Toni",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/tonichiga/modal-manager/issues"
+    "url": "https://github.com/tonichiga/tools/issues"
   },
-  "homepage": "https://github.com/tonichiga/modal-manager#readme",
+  "homepage": "https://github.com/tonichiga/tools#readme",
   "dependencies": {
     "react-uuid": "^2.0.0"
   },
