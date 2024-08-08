@@ -1,0 +1,42 @@
+{
+  "name": "@4i/tools",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc",
+    "start": "src/index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tonichiga/modal-manager.git"
+  },
+  "keywords": [
+    "modal",
+    "hooks",
+    "react",
+    "typescript"
+  ],
+  "author": "Toni",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tonichiga/modal-manager/issues"
+  },
+  "homepage": "https://github.com/tonichiga/modal-manager#readme",
+  "dependencies": {
+    "react-uuid": "^2.0.0"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.23.4",
+    "@babel/core": "^7.23.5",
+    "@babel/plugin-transform-typescript": "^7.23.5",
+    "@babel/preset-env": "^7.23.5",
+    "@babel/preset-react": "^7.23.3",
+    "@babel/preset-typescript": "^7.23.3",
+    "@types/node": "^20.10.2",
+    "@types/react": "^18.2.40",
+    "@types/uuid": "^9.0.7",
+    "typescript": "^5.3.2"
+  }
+}
